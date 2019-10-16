@@ -11,8 +11,9 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/pais",
       "environmentVariables": {
+        "Llave_super_secreta": "Ibaldo",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
